@@ -1,0 +1,8 @@
+{
+  "name": "felab",
+  "version": "0.0.1",
+  "description": "tooling kit for frontend prototyping",
+  "main": "index.js",
+  "author": "Jana Deutschländer",
+  "license": "MIT"
+}
